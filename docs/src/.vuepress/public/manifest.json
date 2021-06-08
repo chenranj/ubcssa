@@ -1,0 +1,15 @@
+{
+  "name": "UBCSSA",
+  "short_name": "UBCSSA",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f3f3f3",
+  "theme_color": "#005bbb",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "120x120",
+      "type": "image/png"
+    }
+  ]
+}
