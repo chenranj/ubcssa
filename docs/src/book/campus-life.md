@@ -81,7 +81,7 @@
 
 ​		在北校，图书馆有Lockwood Memorial Library, Law Library, Silverman Library 和 Music Library。Lockwood Memorial 拥有大量的不同专业参考书籍和文献，可以在工作时间早上8:00到晚上10:00来馆内借书阅读和写论文；而 Law Library 和 Music Library则为法律专业和音乐专业的学生提供充足的学习材料，相对于其他图书馆的主要功能是提供借书服务；Silverman Library 则提供了学生可以自习和小组讨论的空间，Silverman Library有着大量舒服的椅子和沙发，学生可以随时来到Silverman Library写作业读书。Silverman Library甚至有装备着多媒体投影仪的小房间，只要提前预约，学生就可以结伴来到小房间更好地讨论课上内容和小组作业。如果想要安静的学习环境，学生可以到Silverman Library的quite zone。在那里，学生被要求不能说话聊天影响他人。
 
- 		南校的图书馆有 Architecture & Planning Library 和 Health Sciences Library 。与北校的图书馆类似，南校的图书馆依然有着大量专业性的书籍与文章资源，以及可以自由学习写作业的空间。不同的是，因为南校建立的时间更早，图书馆也不同与北校的现代建筑风格，有种浓浓的西式风韵。
+​		南校的图书馆有 Architecture & Planning Library 和 Health Sciences Library 。与北校的图书馆类似，南校的图书馆依然有着大量专业性的书籍与文章资源，以及可以自由学习写作业的空间。不同的是，因为南校建立的时间更早，图书馆也不同与北校的现代建筑风格，有种浓浓的西式风韵。
 
 ### 运动区域
 

@@ -19,6 +19,7 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#005bbb' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', {href: '//db.onlinewebfonts.com/c/752149278afff657a3b77d75b35463fc?family=PingFang+SC', rel:'stylesheet', type:'text/css'}],
   ],
 
   /**
@@ -27,24 +28,28 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: 'chenranj/ubcssa',
-    editLinks: true,
-    docsDir: 'docs',
-    editLinkText: '帮助我们改进手册！',
-    lastUpdated: '上次更新: ',
+    repo: '',
+    editLinks: false,
+    docsDir: '',
+    editLinkText: '',
+    lastUpdated: '',
     nav: [
       {
         text: '新生手册',
         link: '/book/',
       },
       {
-        text: '诈骗预防',
-        link: '/spam/'
+        text: '社区',
+        link: 'https://talk.ubcssa.org'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+        text: '关于学联',
+        link: '/about/'
+      },
+      {
+        text: '资源下载',
+        link: '/resources/'
+      },
     ],
     sidebar: {
       '/book/': [
@@ -55,6 +60,8 @@ module.exports = {
             'preface',
             'prepare',
             'campus-life',
+            'live',
+            'food',
             'phone',
             'bank',
             'traffic-ruls',
@@ -65,6 +72,17 @@ module.exports = {
           collapsable: false,
           children: [
             'spam',
+          ]
+        },
+      ],
+      '/about/': [
+        {
+          title: '关于学联',
+          collapsable: false,
+          children: [
+            '',
+            'officers',
+            'contact',
           ]
         },
       ],

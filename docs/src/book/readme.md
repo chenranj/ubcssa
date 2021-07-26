@@ -1,6 +1,6 @@
 纽约州立大学布法罗分校中国学生生活手册（2015 - 2021）
 
-CSSA Handbook for Chinese Students and Scholars at University at Buffalo (2015 - 2020)
+CSSA Handbook for Chinese Students and Scholars at University at Buffalo (2015 - 2021)
 
 Copyright © 2015 - 2021 by Chinese Students and Scholars Association.
 

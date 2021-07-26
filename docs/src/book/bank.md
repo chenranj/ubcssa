@@ -2,6 +2,13 @@
 
  `本章编辑：方锦帆`
 
+ <video width="100%" height="auto" controls>
+  <source src="https://ubcssa.org/bank.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+> 您可以右键另存为视频至本地观看。本视频遵循CC4.0协议，您可以在：署名标示（BY）- 非商业性使用（NC）- 禁止演绎（ND）的情况下分享/传播本视频。
+
 ​		美国常见的大型银行有Chase (大通银行)、Bank of America (美国银行)、Citi (花旗银行)、Wells Fargo (富国银行)等。选择银行的第一个条件是看看银行是否有FDIC标志(Federal Deposit Insurance Corporation联邦存款保险公司)，有此标志则表示若银行倒闭时联邦政府会赔偿。建议选择自己居住地点周边分行或ATM多的银行，日后要办理业务也较方便。也别忘了参考自己的资金状况去做银行选择，因为各家银行账户多有管理费，若要免去这笔管理费则需要满足某些条件。
 
 ## 储蓄账户(Savings Account)
