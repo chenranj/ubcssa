@@ -1,0 +1,28 @@
+{
+  "name": "ubcssa",
+  "version": "0.0.1",
+  "description": "UBCSSA official doc page",
+  "main": "index.js",
+  "authors": {
+    "name": "Chenran Jin",
+    "email": "chenranj@buffalo.edu"
+  },
+  "repository": "/ubcssa",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-medium-zoom": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.8.2",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-disqus": "^0.2.0",
+    "vuepress-plugin-fulltext-search": "^2.2.1"
+  },
+  "dependencies": {
+    "vuepress-plugin-cat": "^1.0.3"
+  }
+}

@@ -1,0 +1,110 @@
+# UB校园生活
+
+`本章编辑：汪佩然`
+
+## UB card怎么申请 、补办
+
+​		UB card是学生在学校的通行证，主体由照片、名字、UB person number 组成。在学校，方方面面都离不开它：在学校餐馆或者食堂吃饭时，刷UB card使用meal plan或者dinning dollar（在学校餐馆或者食堂，可替代现金与现金的支付方式并且有一定优惠）；考试时，它是类似于准考证的存在，助教会在考试前进行检查，避免代考等不公平现象的发生； 坐学校巴士时，它是学生身份的证明； 住在学校宿舍的学生需要使用UB card开门，是学校保证学生宿舍的安全的一种手段…… 
+
+​		UB card中可以储存dinning dollar， UB cash 和meal plan 等支付货币用来代替现金与刷卡。在手机上下载GET app，可以随时检查卡上的余额和支付情况。
+
+​		在新生入学前，[请确保使用此网站](https://myubcard.com/card/submit-card-photo)提交UB card的照片。在新生orientation的时候，就可以通过指示来到Capen Hall 直接领取UB card。如果没有提前提交UB card 的照片，则需要在Capen hall当场排队拍照并领取UB card。如果排队，需要等待的时间会比较长，而且不一定能当天拿到，所以建议提前提交照片。 
+
+​		UB card如果丢失了怎么办呢？ 首先拨打UB card Office电话 (716) 645-6344 或者使用GET app 上报丢失情况，系统会绑定你的UB card以避免盗刷情况。如果找到了丢失的UB card，需要来到1 Capen 的UB card office（位于Capen hall 一楼）进行重新激活。如果没有找到，可于工作时间来到UB card office进行补办。补办一张UB card的费用是25刀，可使用现金当场支付或者添加在学生学费账单上。
+
+## 学费如何上交
+
+1. 首先登入网站myUB，进入UB Hub Student Center。
+2. 点击 Billing / Payments 。
+3. 点击payment option，在新开的页面中，在View & Pay Accounts 中查看学费账单并上交学费；可在Payment Plan 中设置分期付款。
+4. 在View & Pay Accounts页面中，点击Make a Payment 上交学费。
+5. 输入个人信息以及银行账号。
+6. 支付成功后，网页会跳出recipent。学校会发送支付成功的邮件。
+
+## 学校内交通
+
+### 学校巴士
+
+​		学校巴士一共有四条路线：南北校往返，南校市区校区往返，绕南校，绕北校和校外。具体巴士时间安排请看[学校官网](http://www.buffalo.edu/parking/getting-around-UB/bus/bus-schedules/fall-semester.html)
+
+​		南北校往返的巴士有：Stampede 和Stampede Yellow Line。绕南校的巴士只有 Blue Line Shuttle。绕北校的巴士有： Stampede Red Line (Lee Loop – Ellicott), North Campus Shuttle 和 Green Line Shuttle(Crofts – Capen – Center for Tomorrow Lot) 。 在工作日，一般五到十分钟会有一班巴士，周末间隔时间会更长。
+
+​		学校巴士也通往校外。每周六中午到傍晚会有学校巴士从南北校宿舍区前往学校附近的商场与超市，包括： Walmart, Boulevard Mall, Wegmans, Target 等等。如果住在北校区学校公寓的学生需要到商场与超市，可以乘坐每周五下午到晚上到学校巴士。 每周二，学校有从北校宿舍Ellicott前往亚洲超市的巴士，从下午三点到傍晚六点三十，每半小时一班。
+
+​		UB Express Bus Home 则在放假期间提供去往 New York City, Binhamton, Syracuse 和 Albany 的大巴。车票有限，如果有需要请提前购买。购买时请注意，此车票不能退款。了解详情与购买车票，请前往[官网](http://www.buffalo.edu/parking/getting-around-UB/bus/ub-express-bus-home.html)。
+
+​		为了学生安全，UB 同样提供 Safety Shuttle。如果需要在晚上九点到凌晨两点，前往从南校算起路程在1.5 miles 以内的地区，可以拨打电话 716-895-2402 或者716-923-5645，或者提前下载app “TransLoc”预约Safety Shuttle 并凭借 UB ID 上车。 
+
+## 学校WIFI
+
+如果在连接中遇到问题请联系UBIT Help Center:
+
+> 电话：(716) 645-3542
+>
+> 邮件：ubithelp@buffalo.edu
+
+### Windows 用户如何使用学校Wi-Fi:
+
+​		首先连接Wi-Fi ：UB connect Wi-Fi，打开浏览器进入connect.buffalo.edu，点击Start Connection Wizard；之后在刷新后的界面中选择Configure and Connect，并选择保存文件Save File；在电脑系统“我的文档（My File）”中“下载（Download）”界面找到Wifi_University_at_Buffalo_Wrapper.exe文件并打开下载。在下载弹窗中输入正确的UBITName 和UBITName Password 即可成功下载和安装。安装完成后即可使用Wi-Fi。
+
+###  Mac用户如何使用学校Wi-Fi:
+
+​		首先连接Wi-Fi ：UB connect，打开浏览器进入connect.buffalo.edu，点击Start Connection Wizard。 在电脑系统“文档（File）”中“下载（DownLoad）”界面找到文件WiFi_University_at_Buffalo.dmg 双击下载;输入电脑用户和密码如果在下载时弹出输入要求;接着输入正确的UBITName 和UBITName Password 并点击Log in。下载完成后即正常使用Wi-Fi。
+
+### Linux用户如何使用学校Wi-Fi:
+
+​		首先连接Wi-Fi ：UB connect Wi-Fi，打开浏览器进入connect.buffalo.edu，点击Start Connection Wizard;之后在刷新后面中选择 Configure and Connect，用户会被要求下载名叫SecureW2_JoinNow.run的脚本;在跳出的弹窗中选择保存文件，接着打开Terminal（终端）,在下载文件中输入cd Downloads并敲击键盘“Enter”,然后输入 SecureW2_JoinNow.run 并运行脚本。在跳出的弹窗中正确输入UBIT Name和UBITName Password并登录即可正常使用学校Wi-Fi。
+
+###  iOS 用户如何使用学校Wi-Fi：
+
+​		首先连接Wi-Fi ：UB connect Wi-Fi，打开浏览器进入connect.buffalo.edu，点击Start Connection Wizard，输入正确的UBIT Name和UBITName Password并登入；在刷新的页面中选择Configure and Connect，在跳出的弹窗中选择“允许”来允许使用，接着手机会自动下载文件并跳出弹窗提示；来到“设置”中选择“下载文件（Profile Downloaded）”，选择下载下载文件。当文件下载完成后会自动连接上“eduroam”网络。
+
+### Android用户Wi-Fi
+
+​		首先连接Wi-Fi ：UB connect Wi-Fi，打开浏览器进入connect.buffalo.edu，点击Start Connection Wizard，在跳出的弹窗中选择“下载”，选择“使用Google Play 打开”并下载SecureW2JoinNow；在使用Google play下载安装后，打开软件遵循教程来到UB的登陆界面，输入正确的UBIT Name和UBITName Password并登入即可使用Wi-Fi。
+
+### 私人打印机，游戏机和流媒体设备
+
+​		首先连接至Wi-Fi（eduroam）或者ResNet，打开浏览器进入connect.buffalo.edu，点击Register a Device。在刷新后的页面中输入输入正确的UBIT Name和UBITName Password并登入，为自己的设备命名以确认注册了正确的设备；登入后输入设备的MAC 地址，如果设备是Apple TV，Chromecast 和打印机，请确保选择“Enable AirGroup”，在选择“Create Devic”，连接Wi-Fi即可正常使用。 
+
+## 学校VPN
+
+​		如果需要在校外使用如 UBfs, UB Voicemail, My Virtual Computing Lab等UB自己的服务，可以通过连接UBVPN 来进行使用。
+
+​		在手机上，下载 Cisco AnyConnect App 并打开，点击 Connection > Add New VPN Connection > Server Address，并输入 vpn.buffalo.edu，点击 OK > Done 。为了使用 VPN ， 在下载完成后，需要打开app 并且启动 AnyConnect VPN。在用户名和秘密输入框中分别输入 UBITName 和 UBITName Password，接着点击 Connect。在Answer 区域输入你希望使用的设备号码或者验证码。在选中 Continue 后即可使用VPN。
+
+​		在电脑上，下载Cisco AnyConnect App，连接vpn.buffalo.edu/UBVPN > Connect > Group > UBVPN. 在用户名和秘密输入框中分别输入 UBITName 和 UBITName Password，接着点击OK。在Answer 区域输入你希望使用的设备号码或者验证码，即可使用VPN。
+
+## 校园设施
+
+### 图书馆
+
+​		在北校，图书馆有Lockwood Memorial Library, Law Library, Silverman Library 和 Music Library。Lockwood Memorial 拥有大量的不同专业参考书籍和文献，可以在工作时间早上8:00到晚上10:00来馆内借书阅读和写论文；而 Law Library 和 Music Library则为法律专业和音乐专业的学生提供充足的学习材料，相对于其他图书馆的主要功能是提供借书服务；Silverman Library 则提供了学生可以自习和小组讨论的空间，Silverman Library有着大量舒服的椅子和沙发，学生可以随时来到Silverman Library写作业读书。Silverman Library甚至有装备着多媒体投影仪的小房间，只要提前预约，学生就可以结伴来到小房间更好地讨论课上内容和小组作业。如果想要安静的学习环境，学生可以到Silverman Library的quite zone。在那里，学生被要求不能说话聊天影响他人。
+
+​		南校的图书馆有 Architecture & Planning Library 和 Health Sciences Library 。与北校的图书馆类似，南校的图书馆依然有着大量专业性的书籍与文章资源，以及可以自由学习写作业的空间。不同的是，因为南校建立的时间更早，图书馆也不同与北校的现代建筑风格，有种浓浓的西式风韵。
+
+### 运动区域
+
+​		每个宿舍楼都配有至少一个健身房，配有基本健身设备，如跑步机、划船机、不同重量的哑铃等，住在学校宿舍的学生可以凭借UB ID前往；住在校外的学生，也可以前往北校 Alumni Arena 或者 南校 Clark Hall 的Fitness Center 健身。
+
+​		UB 同样提供不同的运动场所。Alumni Arena 有网球场、足球场、户外和室内篮球场、室内跑道、50米游泳池； Clark Hall 有室内的篮球场、煤渣跑道、25米游泳池、排球和羽毛球场以及跳舞室。如果需要使用，则要提前预约。
+
+> 电话：(716) 645-2286
+>
+> 邮箱：ub-recreation@buffalo.edu.
+
+##  Advisor
+
+​		UB为学生提供专业的学业指导 (academic advising) 。 Advisor 会根据学生的专业与自己本身需求如理想，为学生制定正确的选课计划，依据学生的兴趣和特长找到未来的职业方向和道路，提供资源帮助学生克服学习上的困难。UB 建议学生一学期至少一次和自己的advisor见面聊一聊。
+
+​		依据专业与项目的不同，学生的advisor也不尽相同。如果需要查看自己的advisor，首先登陆UB HUB，接着点击 Academic Progress > Advisor. 
+
+​		如果需要预约advisor，在 Advisor 界面点击 Navigate 链接进行预约。使用UBITName 和 UBITName Password 登陆并进入Navigate，点击 appointment > Schedule an Appointment，选择理由，合适的地点和时间即可预约成功并收到确认邮件。在预约的时间当天，学生还会收到邮件提醒。
+
+## 薅羊毛
+
+1. 使用学校账号免费下载付费软件（[详情](http://www.buffalo.edu/ubit/service-guides/software/downloading.html)）
+2. Amazon 免费一年prime。
+3. 免费电影票 CSA SU 。 
+4. 学校免费体育场所的使用。
+5. 免费打HPV 疫苗。
