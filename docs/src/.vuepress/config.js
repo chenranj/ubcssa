@@ -43,8 +43,8 @@ module.exports = {
         link: '/about/'
       },
       {
-        text: '学校官网',
-        link: 'https://buffalo.edu'
+        text: '问答社区',
+        link: 'https://talk.ubcssa.org'
       }
     ],
     sidebar: {
